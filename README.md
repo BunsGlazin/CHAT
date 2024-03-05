@@ -11,7 +11,7 @@
 
 ## Features:
 
-* Authentication && Authorization with JWT
+* Authentication & Authorization with JWT
 * Global state management with Zustand
 * Error handling both on the server and on the client
 * Amazing and User-friendly UI
